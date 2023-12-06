@@ -3,3 +3,6 @@ conda activate gptac_venv                 # 激活anaconda环境
 python -m pip install -r requirements.txt # 安装依赖
 
 python main.py  #运行
+
+C:\Users\86535\Desktop\GPT Academic\GPT Academic 3.56
+
